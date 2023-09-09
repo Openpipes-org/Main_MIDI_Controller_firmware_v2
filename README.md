@@ -1,3 +1,3 @@
-# Main MIDI Controller firmware v2
+# Main MIDI Controller firmware (Ver 2)
 
 ⚠️ Under construction
