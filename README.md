@@ -4,6 +4,9 @@
 <hr>
 Download the last source code in the <a href="https://github.com/Openpipes-org/Main_MIDI_Controller_firmware_v2/releases">releases</a> section.
 <hr>
+
+## How it works
+
 The program starts with the setup, initializing the necessary variables and setting up the NeoPixel strip. 
 
 Once the setup is complete, the program enters in a loop mode where it checks the keys, processes MIDI events, and checks the volumes.
