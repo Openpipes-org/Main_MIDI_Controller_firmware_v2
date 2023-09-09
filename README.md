@@ -1,6 +1,6 @@
 # Main MIDI Controller firmware (Ver 2)
 
-<img src="https://github.com/Openpipes-org/Main_MIDI_Controller_firmware/blob/main/images/arduino-logo.jpg" title="" alt="Arduino logo" data-align="center">
+<img src="https://github.com/Openpipes-org/Main_MIDI_Controller_firmware_v2/blob/main/images/arduino-logo.jpg" title="" alt="Arduino logo" data-align="center">
 
 The program starts with the setup, initializing the necessary variables and setting up the NeoPixel strip. 
 
