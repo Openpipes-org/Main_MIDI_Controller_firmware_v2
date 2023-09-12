@@ -5,7 +5,7 @@
 Download the last source code in the <a href="https://github.com/Openpipes-org/Main_MIDI_Controller_firmware_v2/releases">releases</a> section.
 <hr>
 
-This is the sketch (source code) to install in the Arduino-compatible Pro Micro board soldered over the Main MIDI Controller board (version 2)[ ].
+This is the sketch (source code) to install in the Arduino-compatible Pro Micro board soldered over the Main MIDI Controller board (version 2)[https://github.com/Openpipes-org/Main_MIDI_Controller_PCB_v2].
 
 ## How it works
 
