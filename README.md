@@ -5,6 +5,8 @@
 Download the last source code in the <a href="https://github.com/Openpipes-org/Main_MIDI_Controller_firmware_v2/releases">releases</a> section.
 <hr>
 
+This is the sketch (source code) to install in the Arduino-compatible Pro Micro board soldered over the Main MIDI Controller board (version 2)[ ].
+
 ## How it works
 
 The program starts with the setup, initializing the necessary variables and setting up the NeoPixel strip. 
