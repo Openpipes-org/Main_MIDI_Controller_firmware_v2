@@ -1,5 +1,7 @@
 # Main MIDI Controller firmware (Version 2)
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 <img src="https://github.com/Openpipes-org/Main_MIDI_Controller_firmware_v2/blob/main/images/arduino-logo.jpg" title="" alt="Arduino logo" data-align="center">
 <hr>
 Download the last source code in the <a href="https://github.com/Openpipes-org/Main_MIDI_Controller_firmware_v2/releases">releases</a> section.
